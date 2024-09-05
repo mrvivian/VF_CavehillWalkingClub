@@ -7,7 +7,7 @@ namespace VF_CavehillWalkingClub
     {
         public MainWindow()
         {
-            InitializeComponent();
+            VF_CavehillWalkingClub();
             LoadData();
         }
 
